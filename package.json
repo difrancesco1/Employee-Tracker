@@ -8,16 +8,12 @@
     "start": "node index"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hstamper/Employee-Tracker.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hstamper/Employee-Tracker/issues"
-  },
-  "homepage": "https://github.com/hstamper/Employee-Tracker#readme",
+
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.17.2",
